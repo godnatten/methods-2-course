@@ -1,0 +1,13 @@
+
+
+
+```{r}
+pacman::p_load(tidyverse)
+
+data <- read_csv("dataset.csv")
+
+getwd()
+
+head(data)
+```
+
